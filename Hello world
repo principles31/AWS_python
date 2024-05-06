@@ -1,0 +1,5 @@
+Creating a Hello, World Program in AWS Cloud9 IDE
+<!-- To confirm the default version of Python that is installed in your lab -->
+python --version
+<!-- this script prints the words Hello World. -->
+print ("Hello, World)
