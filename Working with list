@@ -1,0 +1,48 @@
+Introducing the lists data type
+# Defining a list
+myFruitList = ["apple", "banana", "cherry"]
+print(myFruitList)
+print(type(myFruitList))
+# the list position starts at zero (0). The brackets tell Python which position in the list you want. To access the apple string,
+print(myFruitList[0])
+# To access the banana string, enter the following:
+print(myFruitList[1])
+# To access the cherry string, enter the following code:
+print(myFruitList[2])
+# using the numeral 2 to access the third position
+myFruitList[2] = "orange"
+# Print the updated list:
+print(myFruitList)
+# To define a tuple, you use parentheses instead of brackets ([]).
+myFinalAnswerTuple = ("apple", "banana", "pineapple")
+print(myFinalAnswerTuple)
+print(type(myFinalAnswerTuple))
+# Accessing a tuple by position
+# To access the apple string
+print(myFinalAnswerTuple[0])
+# To access the banana string
+print(myFinalAnswerTuple[1])
+# To access the pineapple string
+print(myFinalAnswerTuple[2])
+# Defining a dictionary
+myFavoriteFruitDictionary = {
+  "Akua" : "apple",
+  "Saanvi" : "banana",
+  "Paulo" : "pineapple"
+}
+# Use the print() function to write the dictionary to the shell:
+print(myFavoriteFruitDictionary)
+# Use the type() function to write the data type to the shell:
+print(type(myFavoriteFruitDictionary))
+# Accessing a dictionary by name
+# To access Akua's favorite fruit,
+print(myFavoriteFruitDictionary["Akua"])
+# To access Saanvi's favorite fruit
+print(myFavoriteFruitDictionary["Saanvi"])
+# To access Paulo's favorite fruit
+print(myFavoriteFruitDictionary["Paulo"])
+
+
+
+
+
