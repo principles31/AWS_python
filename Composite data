@@ -1,0 +1,20 @@
+Defining the dictionary
+<!-- First, import the modules that you will use: -->
+import csv
+import copy
+<!-- Next, define a dictionary that will serve as your composite type for reading the tabular data: -->
+myVehicle = {
+    "vin" : "<empty>",
+    "make" : "<empty>" ,
+    "model" : "<empty>" ,
+    "year" : 0,
+    "range" : 0,
+    "topSpeed" : 0,
+    "zeroSixty" : 0.0,
+    "mileage" : 0
+}
+<!-- use a for loop to iterate over the initial keys and values of the dictionary. -->
+for key, value in myVehicle.items():
+    print("{} : {}".format(key,value))
+    <!-- Define an empty list to hold the car inventory that you will read: -->
+   myInventoryList = [] 

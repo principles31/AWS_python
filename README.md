@@ -28,9 +28,10 @@ This action creates an untitled file.
 - Choose File > Save As..., and provide a suitable name for the exercise file (for example, hello-world.py) and save it under the /home/ec2-user/environment directory.
 
 1 Creating a Hello, World Program
-
+![Hello world](https://github.com/principles31/admin_dashboard/assets/90258833/82a297df-dd7e-4357-be9e-f870108cd95a)
 
 2 Working with Numeric Data Types
+![numeric data](https://github.com/principles31/admin_dashboard/assets/90258833/dd5456f3-0a33-4577-9d72-01fbf60bda40)
 
 3 Working with the String Data Type
 ![string data type](https://github.com/principles31/admin_dashboard/assets/90258833/c4f0f245-5584-4e89-b3b8-98e64d1805c6)
@@ -38,7 +39,19 @@ This action creates an untitled file.
 4 Working with Lists, Tuples, and Dictionaries
 ![Working with Lists](https://github.com/principles31/admin_dashboard/assets/90258833/20077334-4f66-4881-b7fb-902f1fff4542)
 
+5 Categorizing Values
+![categorize](https://github.com/principles31/admin_dashboard/assets/90258833/8e28c7a2-6754-4427-87e4-73b3f18bccfd)
 
+6 comosite data
+
+7 conditionals
+![conditionals](https://github.com/principles31/admin_dashboard/assets/90258833/82be189f-573a-4b79-b420-0937e98e1888)
+
+8 Working with loops
+![while_loop and for_loop](https://github.com/principles31/admin_dashboard/assets/90258833/3b8b06a7-1767-4f4e-92c0-69c715bbc29d)
+
+9 Github repository
+![Github repo](https://github.com/principles31/admin_dashboard/assets/90258833/719f8b2c-00ab-4f48-b3b7-d9c31a82bff0)
 
 ## Authors
 
